@@ -1,0 +1,3021 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<animations>
+    <animation name="1_attack_back">
+        <frame>
+            <bl y="200" x="12700"/>
+            <tr y="300" x="12800"/>
+        </frame>
+        <frame>
+            <bl y="200" x="12800"/>
+            <tr y="300" x="12900"/>
+        </frame>
+        <frame>
+            <bl y="200" x="12900"/>
+            <tr y="300" x="13000"/>
+        </frame>
+        <frame>
+            <bl y="200" x="13000"/>
+            <tr y="300" x="13100"/>
+        </frame>
+        <frame>
+            <bl y="200" x="13100"/>
+            <tr y="300" x="13200"/>
+        </frame>
+        <frame>
+            <bl y="200" x="13200"/>
+            <tr y="300" x="13300"/>
+        </frame>
+    </animation>
+    <animation name="1_attack_font">
+        <frame>
+            <bl y="200" x="13200"/>
+            <tr y="300" x="13300"/>
+        </frame>
+        <frame>
+            <bl y="200" x="13300"/>
+            <tr y="300" x="13400"/>
+        </frame>
+        <frame>
+            <bl y="200" x="13400"/>
+            <tr y="300" x="13500"/>
+        </frame>
+        <frame>
+            <bl y="200" x="13500"/>
+            <tr y="300" x="13600"/>
+        </frame>
+        <frame>
+            <bl y="200" x="13600"/>
+            <tr y="300" x="13700"/>
+        </frame>
+        <frame>
+            <bl y="200" x="13700"/>
+            <tr y="300" x="13800"/>
+        </frame>
+    </animation>
+    <animation name="1_attack_left">
+        <frame>
+            <bl y="200" x="15200"/>
+            <tr y="300" x="15300"/>
+        </frame>
+        <frame>
+            <bl y="200" x="15300"/>
+            <tr y="300" x="15400"/>
+        </frame>
+        <frame>
+            <bl y="200" x="15400"/>
+            <tr y="300" x="15500"/>
+        </frame>
+        <frame>
+            <bl y="200" x="15500"/>
+            <tr y="300" x="15600"/>
+        </frame>
+        <frame>
+            <bl y="200" x="15600"/>
+            <tr y="300" x="15700"/>
+        </frame>
+        <frame>
+            <bl y="200" x="15700"/>
+            <tr y="300" x="15800"/>
+        </frame>
+    </animation>
+    <animation name="1_attack_left_back">
+        <frame>
+            <bl y="200" x="15700"/>
+            <tr y="300" x="15800"/>
+        </frame>
+        <frame>
+            <bl y="200" x="15800"/>
+            <tr y="300" x="15900"/>
+        </frame>
+        <frame>
+            <bl y="200" x="15900"/>
+            <tr y="300" x="16000"/>
+        </frame>
+        <frame>
+            <bl y="200" x="16000"/>
+            <tr y="300" x="16100"/>
+        </frame>
+        <frame>
+            <bl y="200" x="16100"/>
+            <tr y="300" x="16200"/>
+        </frame>
+        <frame>
+            <bl y="200" x="16200"/>
+            <tr y="300" x="16300"/>
+        </frame>
+    </animation>
+    <animation name="1_attack_left_font">
+        <frame>
+            <bl y="200" x="16200"/>
+            <tr y="300" x="16300"/>
+        </frame>
+        <frame>
+            <bl y="200" x="16300"/>
+            <tr y="300" x="16400"/>
+        </frame>
+        <frame>
+            <bl y="200" x="16400"/>
+            <tr y="300" x="16500"/>
+        </frame>
+        <frame>
+            <bl y="200" x="16500"/>
+            <tr y="300" x="16600"/>
+        </frame>
+        <frame>
+            <bl y="200" x="16600"/>
+            <tr y="300" x="16700"/>
+        </frame>
+        <frame>
+            <bl y="200" x="16700"/>
+            <tr y="300" x="16800"/>
+        </frame>
+    </animation>
+    <animation name="1_attack_right">
+        <frame>
+            <bl y="200" x="13700"/>
+            <tr y="300" x="13800"/>
+        </frame>
+        <frame>
+            <bl y="200" x="13800"/>
+            <tr y="300" x="13900"/>
+        </frame>
+        <frame>
+            <bl y="200" x="13900"/>
+            <tr y="300" x="14000"/>
+        </frame>
+        <frame>
+            <bl y="200" x="14000"/>
+            <tr y="300" x="14100"/>
+        </frame>
+        <frame>
+            <bl y="200" x="14100"/>
+            <tr y="300" x="14200"/>
+        </frame>
+        <frame>
+            <bl y="200" x="14200"/>
+            <tr y="300" x="14300"/>
+        </frame>
+    </animation>
+    <animation name="1_attack_right_back">
+        <frame>
+            <bl y="200" x="14200"/>
+            <tr y="300" x="14300"/>
+        </frame>
+        <frame>
+            <bl y="200" x="14300"/>
+            <tr y="300" x="14400"/>
+        </frame>
+        <frame>
+            <bl y="200" x="14400"/>
+            <tr y="300" x="14500"/>
+        </frame>
+        <frame>
+            <bl y="200" x="14500"/>
+            <tr y="300" x="14600"/>
+        </frame>
+        <frame>
+            <bl y="200" x="14600"/>
+            <tr y="300" x="14700"/>
+        </frame>
+        <frame>
+            <bl y="200" x="14700"/>
+            <tr y="300" x="14800"/>
+        </frame>
+    </animation>
+    <animation name="1_attack_right_font">
+        <frame>
+            <bl y="200" x="14700"/>
+            <tr y="300" x="14800"/>
+        </frame>
+        <frame>
+            <bl y="200" x="14800"/>
+            <tr y="300" x="14900"/>
+        </frame>
+        <frame>
+            <bl y="200" x="14900"/>
+            <tr y="300" x="15000"/>
+        </frame>
+        <frame>
+            <bl y="200" x="15000"/>
+            <tr y="300" x="15100"/>
+        </frame>
+        <frame>
+            <bl y="200" x="15100"/>
+            <tr y="300" x="15200"/>
+        </frame>
+        <frame>
+            <bl y="200" x="15200"/>
+            <tr y="300" x="15300"/>
+        </frame>
+    </animation>
+    <animation name="1_attack_ult_back">
+        <frame>
+            <bl y="200" x="16700"/>
+            <tr y="300" x="16800"/>
+        </frame>
+        <frame>
+            <bl y="200" x="16800"/>
+            <tr y="300" x="16900"/>
+        </frame>
+        <frame>
+            <bl y="200" x="16900"/>
+            <tr y="300" x="17000"/>
+        </frame>
+        <frame>
+            <bl y="200" x="17000"/>
+            <tr y="300" x="17100"/>
+        </frame>
+        <frame>
+            <bl y="200" x="17100"/>
+            <tr y="300" x="17200"/>
+        </frame>
+        <frame>
+            <bl y="200" x="17200"/>
+            <tr y="300" x="17300"/>
+        </frame>
+    </animation>
+    <animation name="1_attack_ult_font">
+        <frame>
+            <bl y="200" x="17200"/>
+            <tr y="300" x="17300"/>
+        </frame>
+        <frame>
+            <bl y="200" x="17300"/>
+            <tr y="300" x="17400"/>
+        </frame>
+        <frame>
+            <bl y="200" x="17400"/>
+            <tr y="300" x="17500"/>
+        </frame>
+        <frame>
+            <bl y="200" x="17500"/>
+            <tr y="300" x="17600"/>
+        </frame>
+        <frame>
+            <bl y="200" x="17600"/>
+            <tr y="300" x="17700"/>
+        </frame>
+        <frame>
+            <bl y="200" x="17700"/>
+            <tr y="300" x="17800"/>
+        </frame>
+    </animation>
+    <animation name="1_attack_ult_left">
+        <frame>
+            <bl y="200" x="19200"/>
+            <tr y="300" x="19300"/>
+        </frame>
+        <frame>
+            <bl y="200" x="19300"/>
+            <tr y="300" x="19400"/>
+        </frame>
+        <frame>
+            <bl y="200" x="19400"/>
+            <tr y="300" x="19500"/>
+        </frame>
+        <frame>
+            <bl y="200" x="19500"/>
+            <tr y="300" x="19600"/>
+        </frame>
+        <frame>
+            <bl y="200" x="19600"/>
+            <tr y="300" x="19700"/>
+        </frame>
+        <frame>
+            <bl y="200" x="19700"/>
+            <tr y="300" x="19800"/>
+        </frame>
+    </animation>
+    <animation name="1_attack_ult_left_back">
+        <frame>
+            <bl y="200" x="19700"/>
+            <tr y="300" x="19800"/>
+        </frame>
+        <frame>
+            <bl y="200" x="19800"/>
+            <tr y="300" x="19900"/>
+        </frame>
+        <frame>
+            <bl y="200" x="19900"/>
+            <tr y="300" x="20000"/>
+        </frame>
+        <frame>
+            <bl y="200" x="20000"/>
+            <tr y="300" x="20100"/>
+        </frame>
+        <frame>
+            <bl y="200" x="20100"/>
+            <tr y="300" x="20200"/>
+        </frame>
+        <frame>
+            <bl y="200" x="20200"/>
+            <tr y="300" x="20300"/>
+        </frame>
+    </animation>
+    <animation name="1_attack_ult_left_font">
+        <frame>
+            <bl y="200" x="20200"/>
+            <tr y="300" x="20300"/>
+        </frame>
+        <frame>
+            <bl y="200" x="20300"/>
+            <tr y="300" x="20400"/>
+        </frame>
+        <frame>
+            <bl y="200" x="20400"/>
+            <tr y="300" x="20500"/>
+        </frame>
+        <frame>
+            <bl y="200" x="20500"/>
+            <tr y="300" x="20600"/>
+        </frame>
+        <frame>
+            <bl y="200" x="20600"/>
+            <tr y="300" x="20700"/>
+        </frame>
+        <frame>
+            <bl y="200" x="20700"/>
+            <tr y="300" x="20800"/>
+        </frame>
+    </animation>
+    <animation name="1_attack_ult_right">
+        <frame>
+            <bl y="200" x="17700"/>
+            <tr y="300" x="17800"/>
+        </frame>
+        <frame>
+            <bl y="200" x="17800"/>
+            <tr y="300" x="17900"/>
+        </frame>
+        <frame>
+            <bl y="200" x="17900"/>
+            <tr y="300" x="18000"/>
+        </frame>
+        <frame>
+            <bl y="200" x="18000"/>
+            <tr y="300" x="18100"/>
+        </frame>
+        <frame>
+            <bl y="200" x="18100"/>
+            <tr y="300" x="18200"/>
+        </frame>
+        <frame>
+            <bl y="200" x="18200"/>
+            <tr y="300" x="18300"/>
+        </frame>
+    </animation>
+    <animation name="1_attack_ult_right_back">
+        <frame>
+            <bl y="200" x="18200"/>
+            <tr y="300" x="18300"/>
+        </frame>
+        <frame>
+            <bl y="200" x="18300"/>
+            <tr y="300" x="18400"/>
+        </frame>
+        <frame>
+            <bl y="200" x="18400"/>
+            <tr y="300" x="18500"/>
+        </frame>
+        <frame>
+            <bl y="200" x="18500"/>
+            <tr y="300" x="18600"/>
+        </frame>
+        <frame>
+            <bl y="200" x="18600"/>
+            <tr y="300" x="18700"/>
+        </frame>
+        <frame>
+            <bl y="200" x="18700"/>
+            <tr y="300" x="18800"/>
+        </frame>
+    </animation>
+    <animation name="1_attack_ult_right_font">
+        <frame>
+            <bl y="200" x="18700"/>
+            <tr y="300" x="18800"/>
+        </frame>
+        <frame>
+            <bl y="200" x="18800"/>
+            <tr y="300" x="18900"/>
+        </frame>
+        <frame>
+            <bl y="200" x="18900"/>
+            <tr y="300" x="19000"/>
+        </frame>
+        <frame>
+            <bl y="200" x="19000"/>
+            <tr y="300" x="19100"/>
+        </frame>
+        <frame>
+            <bl y="200" x="19100"/>
+            <tr y="300" x="19200"/>
+        </frame>
+        <frame>
+            <bl y="200" x="19200"/>
+            <tr y="300" x="19300"/>
+        </frame>
+    </animation>
+    <animation name="1_static_font">
+        <frame>
+            <bl y="200" x="5200"/>
+            <tr y="300" x="5300"/>
+        </frame>
+        <frame>
+            <bl y="200" x="5300"/>
+            <tr y="300" x="5400"/>
+        </frame>
+        <frame>
+            <bl y="200" x="5400"/>
+            <tr y="300" x="5500"/>
+        </frame>
+        <frame>
+            <bl y="200" x="5500"/>
+            <tr y="300" x="5600"/>
+        </frame>
+        <frame>
+            <bl y="200" x="5600"/>
+            <tr y="300" x="5700"/>
+        </frame>
+        <frame>
+            <bl y="200" x="5700"/>
+            <tr y="300" x="5800"/>
+        </frame>
+    </animation>
+    <animation name="1_static_left">
+        <frame>
+            <bl y="200" x="7200"/>
+            <tr y="300" x="7300"/>
+        </frame>
+        <frame>
+            <bl y="200" x="7300"/>
+            <tr y="300" x="7400"/>
+        </frame>
+        <frame>
+            <bl y="200" x="7400"/>
+            <tr y="300" x="7500"/>
+        </frame>
+        <frame>
+            <bl y="200" x="7500"/>
+            <tr y="300" x="7600"/>
+        </frame>
+        <frame>
+            <bl y="200" x="7600"/>
+            <tr y="300" x="7700"/>
+        </frame>
+        <frame>
+            <bl y="200" x="7700"/>
+            <tr y="300" x="7800"/>
+        </frame>
+    </animation>
+    <animation name="1_static_left_back">
+        <frame>
+            <bl y="200" x="7700"/>
+            <tr y="300" x="7800"/>
+        </frame>
+        <frame>
+            <bl y="200" x="7800"/>
+            <tr y="300" x="7900"/>
+        </frame>
+        <frame>
+            <bl y="200" x="7900"/>
+            <tr y="300" x="8000"/>
+        </frame>
+        <frame>
+            <bl y="200" x="8000"/>
+            <tr y="300" x="8100"/>
+        </frame>
+        <frame>
+            <bl y="200" x="8100"/>
+            <tr y="300" x="8200"/>
+        </frame>
+        <frame>
+            <bl y="200" x="8200"/>
+            <tr y="300" x="8300"/>
+        </frame>
+    </animation>
+    <animation name="1_static_left_font">
+        <frame>
+            <bl y="200" x="8200"/>
+            <tr y="300" x="8300"/>
+        </frame>
+        <frame>
+            <bl y="200" x="8300"/>
+            <tr y="300" x="8400"/>
+        </frame>
+        <frame>
+            <bl y="200" x="8400"/>
+            <tr y="300" x="8500"/>
+        </frame>
+        <frame>
+            <bl y="200" x="8500"/>
+            <tr y="300" x="8600"/>
+        </frame>
+        <frame>
+            <bl y="200" x="8600"/>
+            <tr y="300" x="8700"/>
+        </frame>
+        <frame>
+            <bl y="200" x="8700"/>
+            <tr y="300" x="8800"/>
+        </frame>
+    </animation>
+    <animation name="1_static_right">
+        <frame>
+            <bl y="200" x="5700"/>
+            <tr y="300" x="5800"/>
+        </frame>
+        <frame>
+            <bl y="200" x="5800"/>
+            <tr y="300" x="5900"/>
+        </frame>
+        <frame>
+            <bl y="200" x="5900"/>
+            <tr y="300" x="6000"/>
+        </frame>
+        <frame>
+            <bl y="200" x="6000"/>
+            <tr y="300" x="6100"/>
+        </frame>
+        <frame>
+            <bl y="200" x="6100"/>
+            <tr y="300" x="6200"/>
+        </frame>
+        <frame>
+            <bl y="200" x="6200"/>
+            <tr y="300" x="6300"/>
+        </frame>
+    </animation>
+    <animation name="1_static_right_back">
+        <frame>
+            <bl y="200" x="6200"/>
+            <tr y="300" x="6300"/>
+        </frame>
+        <frame>
+            <bl y="200" x="6300"/>
+            <tr y="300" x="6400"/>
+        </frame>
+        <frame>
+            <bl y="200" x="6400"/>
+            <tr y="300" x="6500"/>
+        </frame>
+        <frame>
+            <bl y="200" x="6500"/>
+            <tr y="300" x="6600"/>
+        </frame>
+        <frame>
+            <bl y="200" x="6600"/>
+            <tr y="300" x="6700"/>
+        </frame>
+        <frame>
+            <bl y="200" x="6700"/>
+            <tr y="300" x="6800"/>
+        </frame>
+    </animation>
+    <animation name="1_static_right_font">
+        <frame>
+            <bl y="200" x="6700"/>
+            <tr y="300" x="6800"/>
+        </frame>
+        <frame>
+            <bl y="200" x="6800"/>
+            <tr y="300" x="6900"/>
+        </frame>
+        <frame>
+            <bl y="200" x="6900"/>
+            <tr y="300" x="7000"/>
+        </frame>
+        <frame>
+            <bl y="200" x="7000"/>
+            <tr y="300" x="7100"/>
+        </frame>
+        <frame>
+            <bl y="200" x="7100"/>
+            <tr y="300" x="7200"/>
+        </frame>
+        <frame>
+            <bl y="200" x="7200"/>
+            <tr y="300" x="7300"/>
+        </frame>
+    </animation>
+    <animation name="1_ult_back">
+        <frame>
+            <bl y="200" x="0"/>
+            <tr y="300" x="100"/>
+        </frame>
+        <frame>
+            <bl y="200" x="100"/>
+            <tr y="300" x="200"/>
+        </frame>
+        <frame>
+            <bl y="200" x="200"/>
+            <tr y="300" x="300"/>
+        </frame>
+        <frame>
+            <bl y="200" x="300"/>
+            <tr y="300" x="400"/>
+        </frame>
+        <frame>
+            <bl y="200" x="400"/>
+            <tr y="300" x="500"/>
+        </frame>
+        <frame>
+            <bl y="200" x="500"/>
+            <tr y="300" x="600"/>
+        </frame>
+    </animation>
+    <animation name="1_ult_front">
+        <frame>
+            <bl y="200" x="600"/>
+            <tr y="300" x="700"/>
+        </frame>
+        <frame>
+            <bl y="200" x="700"/>
+            <tr y="300" x="800"/>
+        </frame>
+        <frame>
+            <bl y="200" x="800"/>
+            <tr y="300" x="900"/>
+        </frame>
+        <frame>
+            <bl y="200" x="900"/>
+            <tr y="300" x="1000"/>
+        </frame>
+        <frame>
+            <bl y="200" x="1000"/>
+            <tr y="300" x="1100"/>
+        </frame>
+        <frame>
+            <bl y="200" x="1100"/>
+            <tr y="300" x="1200"/>
+        </frame>
+    </animation>
+    <animation name="1_ult_left">
+        <frame>
+            <bl y="200" x="3000"/>
+            <tr y="300" x="3100"/>
+        </frame>
+        <frame>
+            <bl y="200" x="3100"/>
+            <tr y="300" x="3200"/>
+        </frame>
+        <frame>
+            <bl y="200" x="3200"/>
+            <tr y="300" x="3300"/>
+        </frame>
+        <frame>
+            <bl y="200" x="3300"/>
+            <tr y="300" x="3400"/>
+        </frame>
+        <frame>
+            <bl y="200" x="3400"/>
+            <tr y="300" x="3500"/>
+        </frame>
+        <frame>
+            <bl y="200" x="3500"/>
+            <tr y="300" x="3600"/>
+        </frame>
+    </animation>
+    <animation name="1_ult_left_back">
+        <frame>
+            <bl y="200" x="3600"/>
+            <tr y="300" x="3700"/>
+        </frame>
+        <frame>
+            <bl y="200" x="3700"/>
+            <tr y="300" x="3800"/>
+        </frame>
+        <frame>
+            <bl y="200" x="3800"/>
+            <tr y="300" x="3900"/>
+        </frame>
+        <frame>
+            <bl y="200" x="3900"/>
+            <tr y="300" x="4000"/>
+        </frame>
+        <frame>
+            <bl y="200" x="4000"/>
+            <tr y="300" x="4100"/>
+        </frame>
+    </animation>
+    <animation name="1_ult_left_font">
+        <frame>
+            <bl y="200" x="4200"/>
+            <tr y="300" x="4300"/>
+        </frame>
+        <frame>
+            <bl y="200" x="4300"/>
+            <tr y="300" x="4400"/>
+        </frame>
+        <frame>
+            <bl y="200" x="4400"/>
+            <tr y="300" x="4500"/>
+        </frame>
+        <frame>
+            <bl y="200" x="4500"/>
+            <tr y="300" x="4600"/>
+        </frame>
+        <frame>
+            <bl y="200" x="4600"/>
+            <tr y="300" x="4700"/>
+        </frame>
+    </animation>
+    <animation name="1_ult_right">
+        <frame>
+            <bl y="200" x="1200"/>
+            <tr y="300" x="1300"/>
+        </frame>
+        <frame>
+            <bl y="200" x="1300"/>
+            <tr y="300" x="1400"/>
+        </frame>
+        <frame>
+            <bl y="200" x="1400"/>
+            <tr y="300" x="1500"/>
+        </frame>
+        <frame>
+            <bl y="200" x="1500"/>
+            <tr y="300" x="1600"/>
+        </frame>
+        <frame>
+            <bl y="200" x="1600"/>
+            <tr y="300" x="1700"/>
+        </frame>
+        <frame>
+            <bl y="200" x="1700"/>
+            <tr y="300" x="1800"/>
+        </frame>
+    </animation>
+    <animation name="1_ult_right_back">
+        <frame>
+            <bl y="200" x="1800"/>
+            <tr y="300" x="1900"/>
+        </frame>
+        <frame>
+            <bl y="200" x="1900"/>
+            <tr y="300" x="2000"/>
+        </frame>
+        <frame>
+            <bl y="200" x="2000"/>
+            <tr y="300" x="2100"/>
+        </frame>
+        <frame>
+            <bl y="200" x="2100"/>
+            <tr y="300" x="2200"/>
+        </frame>
+        <frame>
+            <bl y="200" x="2200"/>
+            <tr y="300" x="2300"/>
+        </frame>
+        <frame>
+            <bl y="200" x="2300"/>
+            <tr y="300" x="2400"/>
+        </frame>
+    </animation>
+    <animation name="1_ult_right_front">
+        <frame>
+            <bl y="200" x="2400"/>
+            <tr y="300" x="2500"/>
+        </frame>
+        <frame>
+            <bl y="200" x="2500"/>
+            <tr y="300" x="2600"/>
+        </frame>
+        <frame>
+            <bl y="200" x="2600"/>
+            <tr y="300" x="2700"/>
+        </frame>
+        <frame>
+            <bl y="200" x="2700"/>
+            <tr y="300" x="2800"/>
+        </frame>
+        <frame>
+            <bl y="200" x="2800"/>
+            <tr y="300" x="2900"/>
+        </frame>
+        <frame>
+            <bl y="200" x="2900"/>
+            <tr y="300" x="3000"/>
+        </frame>
+    </animation>
+    <animation name="1_ult_static_back">
+        <frame>
+            <bl y="200" x="8700"/>
+            <tr y="300" x="8800"/>
+        </frame>
+        <frame>
+            <bl y="200" x="8800"/>
+            <tr y="300" x="8900"/>
+        </frame>
+        <frame>
+            <bl y="200" x="8900"/>
+            <tr y="300" x="9000"/>
+        </frame>
+        <frame>
+            <bl y="200" x="9000"/>
+            <tr y="300" x="9100"/>
+        </frame>
+        <frame>
+            <bl y="200" x="9100"/>
+            <tr y="300" x="9200"/>
+        </frame>
+        <frame>
+            <bl y="200" x="9200"/>
+            <tr y="300" x="9300"/>
+        </frame>
+    </animation>
+    <animation name="1_ult_static_font">
+        <frame>
+            <bl y="200" x="9200"/>
+            <tr y="300" x="9300"/>
+        </frame>
+        <frame>
+            <bl y="200" x="9300"/>
+            <tr y="300" x="9400"/>
+        </frame>
+        <frame>
+            <bl y="200" x="9400"/>
+            <tr y="300" x="9500"/>
+        </frame>
+        <frame>
+            <bl y="200" x="9500"/>
+            <tr y="300" x="9600"/>
+        </frame>
+        <frame>
+            <bl y="200" x="9600"/>
+            <tr y="300" x="9700"/>
+        </frame>
+        <frame>
+            <bl y="200" x="9700"/>
+            <tr y="300" x="9800"/>
+        </frame>
+    </animation>
+    <animation name="1_ult_static_left">
+        <frame>
+            <bl y="200" x="11200"/>
+            <tr y="300" x="11300"/>
+        </frame>
+        <frame>
+            <bl y="200" x="11300"/>
+            <tr y="300" x="11400"/>
+        </frame>
+        <frame>
+            <bl y="200" x="11400"/>
+            <tr y="300" x="11500"/>
+        </frame>
+        <frame>
+            <bl y="200" x="11500"/>
+            <tr y="300" x="11600"/>
+        </frame>
+        <frame>
+            <bl y="200" x="11600"/>
+            <tr y="300" x="11700"/>
+        </frame>
+        <frame>
+            <bl y="200" x="11700"/>
+            <tr y="300" x="11800"/>
+        </frame>
+    </animation>
+    <animation name="1_ult_static_left_back">
+        <frame>
+            <bl y="200" x="11700"/>
+            <tr y="300" x="11800"/>
+        </frame>
+        <frame>
+            <bl y="200" x="11800"/>
+            <tr y="300" x="11900"/>
+        </frame>
+        <frame>
+            <bl y="200" x="11900"/>
+            <tr y="300" x="12000"/>
+        </frame>
+        <frame>
+            <bl y="200" x="12000"/>
+            <tr y="300" x="12100"/>
+        </frame>
+        <frame>
+            <bl y="200" x="12100"/>
+            <tr y="300" x="12200"/>
+        </frame>
+        <frame>
+            <bl y="200" x="12200"/>
+            <tr y="300" x="12300"/>
+        </frame>
+    </animation>
+    <animation name="1_ult_static_left_font">
+        <frame>
+            <bl y="200" x="12200"/>
+            <tr y="300" x="12300"/>
+        </frame>
+        <frame>
+            <bl y="200" x="12300"/>
+            <tr y="300" x="12400"/>
+        </frame>
+        <frame>
+            <bl y="200" x="12400"/>
+            <tr y="300" x="12500"/>
+        </frame>
+        <frame>
+            <bl y="200" x="12500"/>
+            <tr y="300" x="12600"/>
+        </frame>
+        <frame>
+            <bl y="200" x="12600"/>
+            <tr y="300" x="12700"/>
+        </frame>
+        <frame>
+            <bl y="200" x="12700"/>
+            <tr y="300" x="12800"/>
+        </frame>
+    </animation>
+    <animation name="1_ult_static_right">
+        <frame>
+            <bl y="200" x="9700"/>
+            <tr y="300" x="9800"/>
+        </frame>
+        <frame>
+            <bl y="200" x="9800"/>
+            <tr y="300" x="9900"/>
+        </frame>
+        <frame>
+            <bl y="200" x="9900"/>
+            <tr y="300" x="10000"/>
+        </frame>
+        <frame>
+            <bl y="200" x="10000"/>
+            <tr y="300" x="10100"/>
+        </frame>
+        <frame>
+            <bl y="200" x="10100"/>
+            <tr y="300" x="10200"/>
+        </frame>
+        <frame>
+            <bl y="200" x="10200"/>
+            <tr y="300" x="10300"/>
+        </frame>
+    </animation>
+    <animation name="1_ult_static_right_back">
+        <frame>
+            <bl y="200" x="10200"/>
+            <tr y="300" x="10300"/>
+        </frame>
+        <frame>
+            <bl y="200" x="10300"/>
+            <tr y="300" x="10400"/>
+        </frame>
+        <frame>
+            <bl y="200" x="10400"/>
+            <tr y="300" x="10500"/>
+        </frame>
+        <frame>
+            <bl y="200" x="10500"/>
+            <tr y="300" x="10600"/>
+        </frame>
+        <frame>
+            <bl y="200" x="10600"/>
+            <tr y="300" x="10700"/>
+        </frame>
+        <frame>
+            <bl y="200" x="10700"/>
+            <tr y="300" x="10800"/>
+        </frame>
+    </animation>
+    <animation name="1_ult_static_right_font">
+        <frame>
+            <bl y="200" x="10700"/>
+            <tr y="300" x="10800"/>
+        </frame>
+        <frame>
+            <bl y="200" x="10800"/>
+            <tr y="300" x="10900"/>
+        </frame>
+        <frame>
+            <bl y="200" x="10900"/>
+            <tr y="300" x="11000"/>
+        </frame>
+        <frame>
+            <bl y="200" x="11000"/>
+            <tr y="300" x="11100"/>
+        </frame>
+        <frame>
+            <bl y="200" x="11100"/>
+            <tr y="300" x="11200"/>
+        </frame>
+        <frame>
+            <bl y="200" x="11200"/>
+            <tr y="300" x="11300"/>
+        </frame>
+    </animation>
+    <animation name="2_attack_back">
+        <frame>
+            <bl y="100" x="12700"/>
+            <tr y="200" x="12800"/>
+        </frame>
+        <frame>
+            <bl y="100" x="12800"/>
+            <tr y="200" x="12900"/>
+        </frame>
+        <frame>
+            <bl y="100" x="12900"/>
+            <tr y="200" x="13000"/>
+        </frame>
+        <frame>
+            <bl y="100" x="13000"/>
+            <tr y="200" x="13100"/>
+        </frame>
+        <frame>
+            <bl y="100" x="13100"/>
+            <tr y="200" x="13200"/>
+        </frame>
+        <frame>
+            <bl y="100" x="13200"/>
+            <tr y="200" x="13300"/>
+        </frame>
+    </animation>
+    <animation name="2_attack_font">
+        <frame>
+            <bl y="100" x="13200"/>
+            <tr y="200" x="13300"/>
+        </frame>
+        <frame>
+            <bl y="100" x="13300"/>
+            <tr y="200" x="13400"/>
+        </frame>
+        <frame>
+            <bl y="100" x="13400"/>
+            <tr y="200" x="13500"/>
+        </frame>
+        <frame>
+            <bl y="100" x="13500"/>
+            <tr y="200" x="13600"/>
+        </frame>
+        <frame>
+            <bl y="100" x="13600"/>
+            <tr y="200" x="13700"/>
+        </frame>
+        <frame>
+            <bl y="100" x="13700"/>
+            <tr y="200" x="13800"/>
+        </frame>
+    </animation>
+    <animation name="2_attack_left">
+        <frame>
+            <bl y="100" x="15200"/>
+            <tr y="200" x="15300"/>
+        </frame>
+        <frame>
+            <bl y="100" x="15300"/>
+            <tr y="200" x="15400"/>
+        </frame>
+        <frame>
+            <bl y="100" x="15400"/>
+            <tr y="200" x="15500"/>
+        </frame>
+        <frame>
+            <bl y="100" x="15500"/>
+            <tr y="200" x="15600"/>
+        </frame>
+        <frame>
+            <bl y="100" x="15600"/>
+            <tr y="200" x="15700"/>
+        </frame>
+        <frame>
+            <bl y="100" x="15700"/>
+            <tr y="200" x="15800"/>
+        </frame>
+    </animation>
+    <animation name="2_attack_left_back">
+        <frame>
+            <bl y="100" x="15700"/>
+            <tr y="200" x="15800"/>
+        </frame>
+        <frame>
+            <bl y="100" x="15800"/>
+            <tr y="200" x="15900"/>
+        </frame>
+        <frame>
+            <bl y="100" x="15900"/>
+            <tr y="200" x="16000"/>
+        </frame>
+        <frame>
+            <bl y="100" x="16000"/>
+            <tr y="200" x="16100"/>
+        </frame>
+        <frame>
+            <bl y="100" x="16100"/>
+            <tr y="200" x="16200"/>
+        </frame>
+        <frame>
+            <bl y="100" x="16200"/>
+            <tr y="200" x="16300"/>
+        </frame>
+    </animation>
+    <animation name="2_attack_left_font">
+        <frame>
+            <bl y="100" x="16200"/>
+            <tr y="200" x="16300"/>
+        </frame>
+        <frame>
+            <bl y="100" x="16300"/>
+            <tr y="200" x="16400"/>
+        </frame>
+        <frame>
+            <bl y="100" x="16400"/>
+            <tr y="200" x="16500"/>
+        </frame>
+        <frame>
+            <bl y="100" x="16500"/>
+            <tr y="200" x="16600"/>
+        </frame>
+        <frame>
+            <bl y="100" x="16600"/>
+            <tr y="200" x="16700"/>
+        </frame>
+        <frame>
+            <bl y="100" x="16700"/>
+            <tr y="200" x="16800"/>
+        </frame>
+    </animation>
+    <animation name="2_attack_right">
+        <frame>
+            <bl y="100" x="13700"/>
+            <tr y="200" x="13800"/>
+        </frame>
+        <frame>
+            <bl y="100" x="13800"/>
+            <tr y="200" x="13900"/>
+        </frame>
+        <frame>
+            <bl y="100" x="13900"/>
+            <tr y="200" x="14000"/>
+        </frame>
+        <frame>
+            <bl y="100" x="14000"/>
+            <tr y="200" x="14100"/>
+        </frame>
+        <frame>
+            <bl y="100" x="14100"/>
+            <tr y="200" x="14200"/>
+        </frame>
+        <frame>
+            <bl y="100" x="14200"/>
+            <tr y="200" x="14300"/>
+        </frame>
+    </animation>
+    <animation name="2_attack_right_back">
+        <frame>
+            <bl y="100" x="14200"/>
+            <tr y="200" x="14300"/>
+        </frame>
+        <frame>
+            <bl y="100" x="14300"/>
+            <tr y="200" x="14400"/>
+        </frame>
+        <frame>
+            <bl y="100" x="14400"/>
+            <tr y="200" x="14500"/>
+        </frame>
+        <frame>
+            <bl y="100" x="14500"/>
+            <tr y="200" x="14600"/>
+        </frame>
+        <frame>
+            <bl y="100" x="14600"/>
+            <tr y="200" x="14700"/>
+        </frame>
+        <frame>
+            <bl y="100" x="14700"/>
+            <tr y="200" x="14800"/>
+        </frame>
+    </animation>
+    <animation name="2_attack_right_font">
+        <frame>
+            <bl y="100" x="14700"/>
+            <tr y="200" x="14800"/>
+        </frame>
+        <frame>
+            <bl y="100" x="14800"/>
+            <tr y="200" x="14900"/>
+        </frame>
+        <frame>
+            <bl y="100" x="14900"/>
+            <tr y="200" x="15000"/>
+        </frame>
+        <frame>
+            <bl y="100" x="15000"/>
+            <tr y="200" x="15100"/>
+        </frame>
+        <frame>
+            <bl y="100" x="15100"/>
+            <tr y="200" x="15200"/>
+        </frame>
+        <frame>
+            <bl y="100" x="15200"/>
+            <tr y="200" x="15300"/>
+        </frame>
+    </animation>
+    <animation name="2_attack_ult_back">
+        <frame>
+            <bl y="100" x="16700"/>
+            <tr y="200" x="16800"/>
+        </frame>
+        <frame>
+            <bl y="100" x="16800"/>
+            <tr y="200" x="16900"/>
+        </frame>
+        <frame>
+            <bl y="100" x="16900"/>
+            <tr y="200" x="17000"/>
+        </frame>
+        <frame>
+            <bl y="100" x="17000"/>
+            <tr y="200" x="17100"/>
+        </frame>
+        <frame>
+            <bl y="100" x="17100"/>
+            <tr y="200" x="17200"/>
+        </frame>
+        <frame>
+            <bl y="100" x="17200"/>
+            <tr y="200" x="17300"/>
+        </frame>
+    </animation>
+    <animation name="2_attack_ult_font">
+        <frame>
+            <bl y="100" x="17200"/>
+            <tr y="200" x="17300"/>
+        </frame>
+        <frame>
+            <bl y="100" x="17300"/>
+            <tr y="200" x="17400"/>
+        </frame>
+        <frame>
+            <bl y="100" x="17400"/>
+            <tr y="200" x="17500"/>
+        </frame>
+        <frame>
+            <bl y="100" x="17500"/>
+            <tr y="200" x="17600"/>
+        </frame>
+        <frame>
+            <bl y="100" x="17600"/>
+            <tr y="200" x="17700"/>
+        </frame>
+        <frame>
+            <bl y="100" x="17700"/>
+            <tr y="200" x="17800"/>
+        </frame>
+    </animation>
+    <animation name="2_attack_ult_left">
+        <frame>
+            <bl y="100" x="19200"/>
+            <tr y="200" x="19300"/>
+        </frame>
+        <frame>
+            <bl y="100" x="19300"/>
+            <tr y="200" x="19400"/>
+        </frame>
+        <frame>
+            <bl y="100" x="19400"/>
+            <tr y="200" x="19500"/>
+        </frame>
+        <frame>
+            <bl y="100" x="19500"/>
+            <tr y="200" x="19600"/>
+        </frame>
+        <frame>
+            <bl y="100" x="19600"/>
+            <tr y="200" x="19700"/>
+        </frame>
+        <frame>
+            <bl y="100" x="19700"/>
+            <tr y="200" x="19800"/>
+        </frame>
+    </animation>
+    <animation name="2_attack_ult_left_back">
+        <frame>
+            <bl y="100" x="19700"/>
+            <tr y="200" x="19800"/>
+        </frame>
+        <frame>
+            <bl y="100" x="19800"/>
+            <tr y="200" x="19900"/>
+        </frame>
+        <frame>
+            <bl y="100" x="19900"/>
+            <tr y="200" x="20000"/>
+        </frame>
+        <frame>
+            <bl y="100" x="20000"/>
+            <tr y="200" x="20100"/>
+        </frame>
+        <frame>
+            <bl y="100" x="20100"/>
+            <tr y="200" x="20200"/>
+        </frame>
+        <frame>
+            <bl y="100" x="20200"/>
+            <tr y="200" x="20300"/>
+        </frame>
+    </animation>
+    <animation name="2_attack_ult_left_font">
+        <frame>
+            <bl y="100" x="20200"/>
+            <tr y="200" x="20300"/>
+        </frame>
+        <frame>
+            <bl y="100" x="20300"/>
+            <tr y="200" x="20400"/>
+        </frame>
+        <frame>
+            <bl y="100" x="20400"/>
+            <tr y="200" x="20500"/>
+        </frame>
+        <frame>
+            <bl y="100" x="20500"/>
+            <tr y="200" x="20600"/>
+        </frame>
+        <frame>
+            <bl y="100" x="20600"/>
+            <tr y="200" x="20700"/>
+        </frame>
+        <frame>
+            <bl y="100" x="20700"/>
+            <tr y="200" x="20800"/>
+        </frame>
+    </animation>
+    <animation name="2_attack_ult_right">
+        <frame>
+            <bl y="100" x="17700"/>
+            <tr y="200" x="17800"/>
+        </frame>
+        <frame>
+            <bl y="100" x="17800"/>
+            <tr y="200" x="17900"/>
+        </frame>
+        <frame>
+            <bl y="100" x="17900"/>
+            <tr y="200" x="18000"/>
+        </frame>
+        <frame>
+            <bl y="100" x="18000"/>
+            <tr y="200" x="18100"/>
+        </frame>
+        <frame>
+            <bl y="100" x="18100"/>
+            <tr y="200" x="18200"/>
+        </frame>
+        <frame>
+            <bl y="100" x="18200"/>
+            <tr y="200" x="18300"/>
+        </frame>
+    </animation>
+    <animation name="2_attack_ult_right_back">
+        <frame>
+            <bl y="100" x="18200"/>
+            <tr y="200" x="18300"/>
+        </frame>
+        <frame>
+            <bl y="100" x="18300"/>
+            <tr y="200" x="18400"/>
+        </frame>
+        <frame>
+            <bl y="100" x="18400"/>
+            <tr y="200" x="18500"/>
+        </frame>
+        <frame>
+            <bl y="100" x="18500"/>
+            <tr y="200" x="18600"/>
+        </frame>
+        <frame>
+            <bl y="100" x="18600"/>
+            <tr y="200" x="18700"/>
+        </frame>
+        <frame>
+            <bl y="100" x="18700"/>
+            <tr y="200" x="18800"/>
+        </frame>
+    </animation>
+    <animation name="2_attack_ult_right_font">
+        <frame>
+            <bl y="100" x="18700"/>
+            <tr y="200" x="18800"/>
+        </frame>
+        <frame>
+            <bl y="100" x="18800"/>
+            <tr y="200" x="18900"/>
+        </frame>
+        <frame>
+            <bl y="100" x="18900"/>
+            <tr y="200" x="19000"/>
+        </frame>
+        <frame>
+            <bl y="100" x="19000"/>
+            <tr y="200" x="19100"/>
+        </frame>
+        <frame>
+            <bl y="100" x="19100"/>
+            <tr y="200" x="19200"/>
+        </frame>
+        <frame>
+            <bl y="100" x="19200"/>
+            <tr y="200" x="19300"/>
+        </frame>
+    </animation>
+    <animation name="2_static_font">
+        <frame>
+            <bl y="100" x="5200"/>
+            <tr y="200" x="5300"/>
+        </frame>
+        <frame>
+            <bl y="100" x="5300"/>
+            <tr y="200" x="5400"/>
+        </frame>
+        <frame>
+            <bl y="100" x="5400"/>
+            <tr y="200" x="5500"/>
+        </frame>
+        <frame>
+            <bl y="100" x="5500"/>
+            <tr y="200" x="5600"/>
+        </frame>
+        <frame>
+            <bl y="100" x="5600"/>
+            <tr y="200" x="5700"/>
+        </frame>
+        <frame>
+            <bl y="100" x="5700"/>
+            <tr y="200" x="5800"/>
+        </frame>
+    </animation>
+    <animation name="2_static_left">
+        <frame>
+            <bl y="100" x="7200"/>
+            <tr y="200" x="7300"/>
+        </frame>
+        <frame>
+            <bl y="100" x="7300"/>
+            <tr y="200" x="7400"/>
+        </frame>
+        <frame>
+            <bl y="100" x="7400"/>
+            <tr y="200" x="7500"/>
+        </frame>
+        <frame>
+            <bl y="100" x="7500"/>
+            <tr y="200" x="7600"/>
+        </frame>
+        <frame>
+            <bl y="100" x="7600"/>
+            <tr y="200" x="7700"/>
+        </frame>
+        <frame>
+            <bl y="100" x="7700"/>
+            <tr y="200" x="7800"/>
+        </frame>
+    </animation>
+    <animation name="2_static_left_back">
+        <frame>
+            <bl y="100" x="7700"/>
+            <tr y="200" x="7800"/>
+        </frame>
+        <frame>
+            <bl y="100" x="7800"/>
+            <tr y="200" x="7900"/>
+        </frame>
+        <frame>
+            <bl y="100" x="7900"/>
+            <tr y="200" x="8000"/>
+        </frame>
+        <frame>
+            <bl y="100" x="8000"/>
+            <tr y="200" x="8100"/>
+        </frame>
+        <frame>
+            <bl y="100" x="8100"/>
+            <tr y="200" x="8200"/>
+        </frame>
+        <frame>
+            <bl y="100" x="8200"/>
+            <tr y="200" x="8300"/>
+        </frame>
+    </animation>
+    <animation name="2_static_left_font">
+        <frame>
+            <bl y="100" x="8200"/>
+            <tr y="200" x="8300"/>
+        </frame>
+        <frame>
+            <bl y="100" x="8300"/>
+            <tr y="200" x="8400"/>
+        </frame>
+        <frame>
+            <bl y="100" x="8400"/>
+            <tr y="200" x="8500"/>
+        </frame>
+        <frame>
+            <bl y="100" x="8500"/>
+            <tr y="200" x="8600"/>
+        </frame>
+        <frame>
+            <bl y="100" x="8600"/>
+            <tr y="200" x="8700"/>
+        </frame>
+        <frame>
+            <bl y="100" x="8700"/>
+            <tr y="200" x="8800"/>
+        </frame>
+    </animation>
+    <animation name="2_static_right">
+        <frame>
+            <bl y="100" x="5700"/>
+            <tr y="200" x="5800"/>
+        </frame>
+        <frame>
+            <bl y="100" x="5800"/>
+            <tr y="200" x="5900"/>
+        </frame>
+        <frame>
+            <bl y="100" x="5900"/>
+            <tr y="200" x="6000"/>
+        </frame>
+        <frame>
+            <bl y="100" x="6000"/>
+            <tr y="200" x="6100"/>
+        </frame>
+        <frame>
+            <bl y="100" x="6100"/>
+            <tr y="200" x="6200"/>
+        </frame>
+        <frame>
+            <bl y="100" x="6200"/>
+            <tr y="200" x="6300"/>
+        </frame>
+    </animation>
+    <animation name="2_static_right_back">
+        <frame>
+            <bl y="100" x="6200"/>
+            <tr y="200" x="6300"/>
+        </frame>
+        <frame>
+            <bl y="100" x="6300"/>
+            <tr y="200" x="6400"/>
+        </frame>
+        <frame>
+            <bl y="100" x="6400"/>
+            <tr y="200" x="6500"/>
+        </frame>
+        <frame>
+            <bl y="100" x="6500"/>
+            <tr y="200" x="6600"/>
+        </frame>
+        <frame>
+            <bl y="100" x="6600"/>
+            <tr y="200" x="6700"/>
+        </frame>
+        <frame>
+            <bl y="100" x="6700"/>
+            <tr y="200" x="6800"/>
+        </frame>
+    </animation>
+    <animation name="2_static_right_font">
+        <frame>
+            <bl y="100" x="6700"/>
+            <tr y="200" x="6800"/>
+        </frame>
+        <frame>
+            <bl y="100" x="6800"/>
+            <tr y="200" x="6900"/>
+        </frame>
+        <frame>
+            <bl y="100" x="6900"/>
+            <tr y="200" x="7000"/>
+        </frame>
+        <frame>
+            <bl y="100" x="7000"/>
+            <tr y="200" x="7100"/>
+        </frame>
+        <frame>
+            <bl y="100" x="7100"/>
+            <tr y="200" x="7200"/>
+        </frame>
+        <frame>
+            <bl y="100" x="7200"/>
+            <tr y="200" x="7300"/>
+        </frame>
+    </animation>
+    <animation name="2_ult_back">
+        <frame>
+            <bl y="100" x="0"/>
+            <tr y="200" x="100"/>
+        </frame>
+        <frame>
+            <bl y="100" x="100"/>
+            <tr y="200" x="200"/>
+        </frame>
+        <frame>
+            <bl y="100" x="200"/>
+            <tr y="200" x="300"/>
+        </frame>
+        <frame>
+            <bl y="100" x="300"/>
+            <tr y="200" x="400"/>
+        </frame>
+        <frame>
+            <bl y="100" x="400"/>
+            <tr y="200" x="500"/>
+        </frame>
+        <frame>
+            <bl y="100" x="500"/>
+            <tr y="200" x="600"/>
+        </frame>
+    </animation>
+    <animation name="2_ult_front">
+        <frame>
+            <bl y="100" x="600"/>
+            <tr y="200" x="700"/>
+        </frame>
+        <frame>
+            <bl y="100" x="700"/>
+            <tr y="200" x="800"/>
+        </frame>
+        <frame>
+            <bl y="100" x="800"/>
+            <tr y="200" x="900"/>
+        </frame>
+        <frame>
+            <bl y="100" x="900"/>
+            <tr y="200" x="1000"/>
+        </frame>
+        <frame>
+            <bl y="100" x="1000"/>
+            <tr y="200" x="1100"/>
+        </frame>
+        <frame>
+            <bl y="100" x="1100"/>
+            <tr y="200" x="1200"/>
+        </frame>
+    </animation>
+    <animation name="2_ult_left">
+        <frame>
+            <bl y="100" x="3000"/>
+            <tr y="200" x="3100"/>
+        </frame>
+        <frame>
+            <bl y="100" x="3100"/>
+            <tr y="200" x="3200"/>
+        </frame>
+        <frame>
+            <bl y="100" x="3200"/>
+            <tr y="200" x="3300"/>
+        </frame>
+        <frame>
+            <bl y="100" x="3300"/>
+            <tr y="200" x="3400"/>
+        </frame>
+        <frame>
+            <bl y="100" x="3400"/>
+            <tr y="200" x="3500"/>
+        </frame>
+        <frame>
+            <bl y="100" x="3500"/>
+            <tr y="200" x="3600"/>
+        </frame>
+    </animation>
+    <animation name="2_ult_left_back">
+        <frame>
+            <bl y="100" x="3600"/>
+            <tr y="200" x="3700"/>
+        </frame>
+        <frame>
+            <bl y="100" x="3700"/>
+            <tr y="200" x="3800"/>
+        </frame>
+        <frame>
+            <bl y="100" x="3800"/>
+            <tr y="200" x="3900"/>
+        </frame>
+        <frame>
+            <bl y="100" x="3900"/>
+            <tr y="200" x="4000"/>
+        </frame>
+        <frame>
+            <bl y="100" x="4000"/>
+            <tr y="200" x="4100"/>
+        </frame>
+    </animation>
+    <animation name="2_ult_left_font">
+        <frame>
+            <bl y="100" x="4200"/>
+            <tr y="200" x="4300"/>
+        </frame>
+        <frame>
+            <bl y="100" x="4300"/>
+            <tr y="200" x="4400"/>
+        </frame>
+        <frame>
+            <bl y="100" x="4400"/>
+            <tr y="200" x="4500"/>
+        </frame>
+        <frame>
+            <bl y="100" x="4500"/>
+            <tr y="200" x="4600"/>
+        </frame>
+        <frame>
+            <bl y="100" x="4600"/>
+            <tr y="200" x="4700"/>
+        </frame>
+    </animation>
+    <animation name="2_ult_right">
+        <frame>
+            <bl y="100" x="1200"/>
+            <tr y="200" x="1300"/>
+        </frame>
+        <frame>
+            <bl y="100" x="1300"/>
+            <tr y="200" x="1400"/>
+        </frame>
+        <frame>
+            <bl y="100" x="1400"/>
+            <tr y="200" x="1500"/>
+        </frame>
+        <frame>
+            <bl y="100" x="1500"/>
+            <tr y="200" x="1600"/>
+        </frame>
+        <frame>
+            <bl y="100" x="1600"/>
+            <tr y="200" x="1700"/>
+        </frame>
+        <frame>
+            <bl y="100" x="1700"/>
+            <tr y="200" x="1800"/>
+        </frame>
+    </animation>
+    <animation name="2_ult_right_back">
+        <frame>
+            <bl y="100" x="1800"/>
+            <tr y="200" x="1900"/>
+        </frame>
+        <frame>
+            <bl y="100" x="1900"/>
+            <tr y="200" x="2000"/>
+        </frame>
+        <frame>
+            <bl y="100" x="2000"/>
+            <tr y="200" x="2100"/>
+        </frame>
+        <frame>
+            <bl y="100" x="2100"/>
+            <tr y="200" x="2200"/>
+        </frame>
+        <frame>
+            <bl y="100" x="2200"/>
+            <tr y="200" x="2300"/>
+        </frame>
+        <frame>
+            <bl y="100" x="2300"/>
+            <tr y="200" x="2400"/>
+        </frame>
+    </animation>
+    <animation name="2_ult_right_front">
+        <frame>
+            <bl y="100" x="2400"/>
+            <tr y="200" x="2500"/>
+        </frame>
+        <frame>
+            <bl y="100" x="2500"/>
+            <tr y="200" x="2600"/>
+        </frame>
+        <frame>
+            <bl y="100" x="2600"/>
+            <tr y="200" x="2700"/>
+        </frame>
+        <frame>
+            <bl y="100" x="2700"/>
+            <tr y="200" x="2800"/>
+        </frame>
+        <frame>
+            <bl y="100" x="2800"/>
+            <tr y="200" x="2900"/>
+        </frame>
+        <frame>
+            <bl y="100" x="2900"/>
+            <tr y="200" x="3000"/>
+        </frame>
+    </animation>
+    <animation name="2_ult_static_back">
+        <frame>
+            <bl y="100" x="8700"/>
+            <tr y="200" x="8800"/>
+        </frame>
+        <frame>
+            <bl y="100" x="8800"/>
+            <tr y="200" x="8900"/>
+        </frame>
+        <frame>
+            <bl y="100" x="8900"/>
+            <tr y="200" x="9000"/>
+        </frame>
+        <frame>
+            <bl y="100" x="9000"/>
+            <tr y="200" x="9100"/>
+        </frame>
+        <frame>
+            <bl y="100" x="9100"/>
+            <tr y="200" x="9200"/>
+        </frame>
+        <frame>
+            <bl y="100" x="9200"/>
+            <tr y="200" x="9300"/>
+        </frame>
+    </animation>
+    <animation name="2_ult_static_font">
+        <frame>
+            <bl y="100" x="9200"/>
+            <tr y="200" x="9300"/>
+        </frame>
+        <frame>
+            <bl y="100" x="9300"/>
+            <tr y="200" x="9400"/>
+        </frame>
+        <frame>
+            <bl y="100" x="9400"/>
+            <tr y="200" x="9500"/>
+        </frame>
+        <frame>
+            <bl y="100" x="9500"/>
+            <tr y="200" x="9600"/>
+        </frame>
+        <frame>
+            <bl y="100" x="9600"/>
+            <tr y="200" x="9700"/>
+        </frame>
+        <frame>
+            <bl y="100" x="9700"/>
+            <tr y="200" x="9800"/>
+        </frame>
+    </animation>
+    <animation name="2_ult_static_left">
+        <frame>
+            <bl y="100" x="11200"/>
+            <tr y="200" x="11300"/>
+        </frame>
+        <frame>
+            <bl y="100" x="11300"/>
+            <tr y="200" x="11400"/>
+        </frame>
+        <frame>
+            <bl y="100" x="11400"/>
+            <tr y="200" x="11500"/>
+        </frame>
+        <frame>
+            <bl y="100" x="11500"/>
+            <tr y="200" x="11600"/>
+        </frame>
+        <frame>
+            <bl y="100" x="11600"/>
+            <tr y="200" x="11700"/>
+        </frame>
+        <frame>
+            <bl y="100" x="11700"/>
+            <tr y="200" x="11800"/>
+        </frame>
+    </animation>
+    <animation name="2_ult_static_left_back">
+        <frame>
+            <bl y="100" x="11700"/>
+            <tr y="200" x="11800"/>
+        </frame>
+        <frame>
+            <bl y="100" x="11800"/>
+            <tr y="200" x="11900"/>
+        </frame>
+        <frame>
+            <bl y="100" x="11900"/>
+            <tr y="200" x="12000"/>
+        </frame>
+        <frame>
+            <bl y="100" x="12000"/>
+            <tr y="200" x="12100"/>
+        </frame>
+        <frame>
+            <bl y="100" x="12100"/>
+            <tr y="200" x="12200"/>
+        </frame>
+        <frame>
+            <bl y="100" x="12200"/>
+            <tr y="200" x="12300"/>
+        </frame>
+    </animation>
+    <animation name="2_ult_static_left_font">
+        <frame>
+            <bl y="100" x="12200"/>
+            <tr y="200" x="12300"/>
+        </frame>
+        <frame>
+            <bl y="100" x="12300"/>
+            <tr y="200" x="12400"/>
+        </frame>
+        <frame>
+            <bl y="100" x="12400"/>
+            <tr y="200" x="12500"/>
+        </frame>
+        <frame>
+            <bl y="100" x="12500"/>
+            <tr y="200" x="12600"/>
+        </frame>
+        <frame>
+            <bl y="100" x="12600"/>
+            <tr y="200" x="12700"/>
+        </frame>
+        <frame>
+            <bl y="100" x="12700"/>
+            <tr y="200" x="12800"/>
+        </frame>
+    </animation>
+    <animation name="2_ult_static_right">
+        <frame>
+            <bl y="100" x="9700"/>
+            <tr y="200" x="9800"/>
+        </frame>
+        <frame>
+            <bl y="100" x="9800"/>
+            <tr y="200" x="9900"/>
+        </frame>
+        <frame>
+            <bl y="100" x="9900"/>
+            <tr y="200" x="10000"/>
+        </frame>
+        <frame>
+            <bl y="100" x="10000"/>
+            <tr y="200" x="10100"/>
+        </frame>
+        <frame>
+            <bl y="100" x="10100"/>
+            <tr y="200" x="10200"/>
+        </frame>
+        <frame>
+            <bl y="100" x="10200"/>
+            <tr y="200" x="10300"/>
+        </frame>
+    </animation>
+    <animation name="2_ult_static_right_back">
+        <frame>
+            <bl y="100" x="10200"/>
+            <tr y="200" x="10300"/>
+        </frame>
+        <frame>
+            <bl y="100" x="10300"/>
+            <tr y="200" x="10400"/>
+        </frame>
+        <frame>
+            <bl y="100" x="10400"/>
+            <tr y="200" x="10500"/>
+        </frame>
+        <frame>
+            <bl y="100" x="10500"/>
+            <tr y="200" x="10600"/>
+        </frame>
+        <frame>
+            <bl y="100" x="10600"/>
+            <tr y="200" x="10700"/>
+        </frame>
+        <frame>
+            <bl y="100" x="10700"/>
+            <tr y="200" x="10800"/>
+        </frame>
+    </animation>
+    <animation name="2_ult_static_right_font">
+        <frame>
+            <bl y="100" x="10700"/>
+            <tr y="200" x="10800"/>
+        </frame>
+        <frame>
+            <bl y="100" x="10800"/>
+            <tr y="200" x="10900"/>
+        </frame>
+        <frame>
+            <bl y="100" x="10900"/>
+            <tr y="200" x="11000"/>
+        </frame>
+        <frame>
+            <bl y="100" x="11000"/>
+            <tr y="200" x="11100"/>
+        </frame>
+        <frame>
+            <bl y="100" x="11100"/>
+            <tr y="200" x="11200"/>
+        </frame>
+        <frame>
+            <bl y="100" x="11200"/>
+            <tr y="200" x="11300"/>
+        </frame>
+    </animation>
+    <animation name="3_attack_back">
+        <frame>
+            <bl y="0" x="12700"/>
+            <tr y="100" x="12800"/>
+        </frame>
+        <frame>
+            <bl y="0" x="12800"/>
+            <tr y="100" x="12900"/>
+        </frame>
+        <frame>
+            <bl y="0" x="12900"/>
+            <tr y="100" x="13000"/>
+        </frame>
+        <frame>
+            <bl y="0" x="13000"/>
+            <tr y="100" x="13100"/>
+        </frame>
+        <frame>
+            <bl y="0" x="13100"/>
+            <tr y="100" x="13200"/>
+        </frame>
+        <frame>
+            <bl y="0" x="13200"/>
+            <tr y="100" x="13300"/>
+        </frame>
+    </animation>
+    <animation name="3_attack_font">
+        <frame>
+            <bl y="0" x="13200"/>
+            <tr y="100" x="13300"/>
+        </frame>
+        <frame>
+            <bl y="0" x="13300"/>
+            <tr y="100" x="13400"/>
+        </frame>
+        <frame>
+            <bl y="0" x="13400"/>
+            <tr y="100" x="13500"/>
+        </frame>
+        <frame>
+            <bl y="0" x="13500"/>
+            <tr y="100" x="13600"/>
+        </frame>
+        <frame>
+            <bl y="0" x="13600"/>
+            <tr y="100" x="13700"/>
+        </frame>
+        <frame>
+            <bl y="0" x="13700"/>
+            <tr y="100" x="13800"/>
+        </frame>
+    </animation>
+    <animation name="3_attack_left">
+        <frame>
+            <bl y="0" x="15200"/>
+            <tr y="100" x="15300"/>
+        </frame>
+        <frame>
+            <bl y="0" x="15300"/>
+            <tr y="100" x="15400"/>
+        </frame>
+        <frame>
+            <bl y="0" x="15400"/>
+            <tr y="100" x="15500"/>
+        </frame>
+        <frame>
+            <bl y="0" x="15500"/>
+            <tr y="100" x="15600"/>
+        </frame>
+        <frame>
+            <bl y="0" x="15600"/>
+            <tr y="100" x="15700"/>
+        </frame>
+        <frame>
+            <bl y="0" x="15700"/>
+            <tr y="100" x="15800"/>
+        </frame>
+    </animation>
+    <animation name="3_attack_left_back">
+        <frame>
+            <bl y="0" x="15700"/>
+            <tr y="100" x="15800"/>
+        </frame>
+        <frame>
+            <bl y="0" x="15800"/>
+            <tr y="100" x="15900"/>
+        </frame>
+        <frame>
+            <bl y="0" x="15900"/>
+            <tr y="100" x="16000"/>
+        </frame>
+        <frame>
+            <bl y="0" x="16000"/>
+            <tr y="100" x="16100"/>
+        </frame>
+        <frame>
+            <bl y="0" x="16100"/>
+            <tr y="100" x="16200"/>
+        </frame>
+        <frame>
+            <bl y="0" x="16200"/>
+            <tr y="100" x="16300"/>
+        </frame>
+    </animation>
+    <animation name="3_attack_left_font">
+        <frame>
+            <bl y="0" x="16200"/>
+            <tr y="100" x="16300"/>
+        </frame>
+        <frame>
+            <bl y="0" x="16300"/>
+            <tr y="100" x="16400"/>
+        </frame>
+        <frame>
+            <bl y="0" x="16400"/>
+            <tr y="100" x="16500"/>
+        </frame>
+        <frame>
+            <bl y="0" x="16500"/>
+            <tr y="100" x="16600"/>
+        </frame>
+        <frame>
+            <bl y="0" x="16600"/>
+            <tr y="100" x="16700"/>
+        </frame>
+        <frame>
+            <bl y="0" x="16700"/>
+            <tr y="100" x="16800"/>
+        </frame>
+    </animation>
+    <animation name="3_attack_right">
+        <frame>
+            <bl y="0" x="13700"/>
+            <tr y="100" x="13800"/>
+        </frame>
+        <frame>
+            <bl y="0" x="13800"/>
+            <tr y="100" x="13900"/>
+        </frame>
+        <frame>
+            <bl y="0" x="13900"/>
+            <tr y="100" x="14000"/>
+        </frame>
+        <frame>
+            <bl y="0" x="14000"/>
+            <tr y="100" x="14100"/>
+        </frame>
+        <frame>
+            <bl y="0" x="14100"/>
+            <tr y="100" x="14200"/>
+        </frame>
+        <frame>
+            <bl y="0" x="14200"/>
+            <tr y="100" x="14300"/>
+        </frame>
+    </animation>
+    <animation name="3_attack_right_back">
+        <frame>
+            <bl y="0" x="14200"/>
+            <tr y="100" x="14300"/>
+        </frame>
+        <frame>
+            <bl y="0" x="14300"/>
+            <tr y="100" x="14400"/>
+        </frame>
+        <frame>
+            <bl y="0" x="14400"/>
+            <tr y="100" x="14500"/>
+        </frame>
+        <frame>
+            <bl y="0" x="14500"/>
+            <tr y="100" x="14600"/>
+        </frame>
+        <frame>
+            <bl y="0" x="14600"/>
+            <tr y="100" x="14700"/>
+        </frame>
+        <frame>
+            <bl y="0" x="14700"/>
+            <tr y="100" x="14800"/>
+        </frame>
+    </animation>
+    <animation name="3_attack_right_font">
+        <frame>
+            <bl y="0" x="14700"/>
+            <tr y="100" x="14800"/>
+        </frame>
+        <frame>
+            <bl y="0" x="14800"/>
+            <tr y="100" x="14900"/>
+        </frame>
+        <frame>
+            <bl y="0" x="14900"/>
+            <tr y="100" x="15000"/>
+        </frame>
+        <frame>
+            <bl y="0" x="15000"/>
+            <tr y="100" x="15100"/>
+        </frame>
+        <frame>
+            <bl y="0" x="15100"/>
+            <tr y="100" x="15200"/>
+        </frame>
+        <frame>
+            <bl y="0" x="15200"/>
+            <tr y="100" x="15300"/>
+        </frame>
+    </animation>
+    <animation name="3_attack_ult_back">
+        <frame>
+            <bl y="0" x="16700"/>
+            <tr y="100" x="16800"/>
+        </frame>
+        <frame>
+            <bl y="0" x="16800"/>
+            <tr y="100" x="16900"/>
+        </frame>
+        <frame>
+            <bl y="0" x="16900"/>
+            <tr y="100" x="17000"/>
+        </frame>
+        <frame>
+            <bl y="0" x="17000"/>
+            <tr y="100" x="17100"/>
+        </frame>
+        <frame>
+            <bl y="0" x="17100"/>
+            <tr y="100" x="17200"/>
+        </frame>
+        <frame>
+            <bl y="0" x="17200"/>
+            <tr y="100" x="17300"/>
+        </frame>
+    </animation>
+    <animation name="3_attack_ult_font">
+        <frame>
+            <bl y="0" x="17200"/>
+            <tr y="100" x="17300"/>
+        </frame>
+        <frame>
+            <bl y="0" x="17300"/>
+            <tr y="100" x="17400"/>
+        </frame>
+        <frame>
+            <bl y="0" x="17400"/>
+            <tr y="100" x="17500"/>
+        </frame>
+        <frame>
+            <bl y="0" x="17500"/>
+            <tr y="100" x="17600"/>
+        </frame>
+        <frame>
+            <bl y="0" x="17600"/>
+            <tr y="100" x="17700"/>
+        </frame>
+        <frame>
+            <bl y="0" x="17700"/>
+            <tr y="100" x="17800"/>
+        </frame>
+    </animation>
+    <animation name="3_attack_ult_left">
+        <frame>
+            <bl y="0" x="19200"/>
+            <tr y="100" x="19300"/>
+        </frame>
+        <frame>
+            <bl y="0" x="19300"/>
+            <tr y="100" x="19400"/>
+        </frame>
+        <frame>
+            <bl y="0" x="19400"/>
+            <tr y="100" x="19500"/>
+        </frame>
+        <frame>
+            <bl y="0" x="19500"/>
+            <tr y="100" x="19600"/>
+        </frame>
+        <frame>
+            <bl y="0" x="19600"/>
+            <tr y="100" x="19700"/>
+        </frame>
+        <frame>
+            <bl y="0" x="19700"/>
+            <tr y="100" x="19800"/>
+        </frame>
+    </animation>
+    <animation name="3_attack_ult_left_back">
+        <frame>
+            <bl y="0" x="19700"/>
+            <tr y="100" x="19800"/>
+        </frame>
+        <frame>
+            <bl y="0" x="19800"/>
+            <tr y="100" x="19900"/>
+        </frame>
+        <frame>
+            <bl y="0" x="19900"/>
+            <tr y="100" x="20000"/>
+        </frame>
+        <frame>
+            <bl y="0" x="20000"/>
+            <tr y="100" x="20100"/>
+        </frame>
+        <frame>
+            <bl y="0" x="20100"/>
+            <tr y="100" x="20200"/>
+        </frame>
+        <frame>
+            <bl y="0" x="20200"/>
+            <tr y="100" x="20300"/>
+        </frame>
+    </animation>
+    <animation name="3_attack_ult_left_font">
+        <frame>
+            <bl y="0" x="20200"/>
+            <tr y="100" x="20300"/>
+        </frame>
+        <frame>
+            <bl y="0" x="20300"/>
+            <tr y="100" x="20400"/>
+        </frame>
+        <frame>
+            <bl y="0" x="20400"/>
+            <tr y="100" x="20500"/>
+        </frame>
+        <frame>
+            <bl y="0" x="20500"/>
+            <tr y="100" x="20600"/>
+        </frame>
+        <frame>
+            <bl y="0" x="20600"/>
+            <tr y="100" x="20700"/>
+        </frame>
+        <frame>
+            <bl y="0" x="20700"/>
+            <tr y="100" x="20800"/>
+        </frame>
+    </animation>
+    <animation name="3_attack_ult_right">
+        <frame>
+            <bl y="0" x="17700"/>
+            <tr y="100" x="17800"/>
+        </frame>
+        <frame>
+            <bl y="0" x="17800"/>
+            <tr y="100" x="17900"/>
+        </frame>
+        <frame>
+            <bl y="0" x="17900"/>
+            <tr y="100" x="18000"/>
+        </frame>
+        <frame>
+            <bl y="0" x="18000"/>
+            <tr y="100" x="18100"/>
+        </frame>
+        <frame>
+            <bl y="0" x="18100"/>
+            <tr y="100" x="18200"/>
+        </frame>
+        <frame>
+            <bl y="0" x="18200"/>
+            <tr y="100" x="18300"/>
+        </frame>
+    </animation>
+    <animation name="3_attack_ult_right_back">
+        <frame>
+            <bl y="0" x="18200"/>
+            <tr y="100" x="18300"/>
+        </frame>
+        <frame>
+            <bl y="0" x="18300"/>
+            <tr y="100" x="18400"/>
+        </frame>
+        <frame>
+            <bl y="0" x="18400"/>
+            <tr y="100" x="18500"/>
+        </frame>
+        <frame>
+            <bl y="0" x="18500"/>
+            <tr y="100" x="18600"/>
+        </frame>
+        <frame>
+            <bl y="0" x="18600"/>
+            <tr y="100" x="18700"/>
+        </frame>
+        <frame>
+            <bl y="0" x="18700"/>
+            <tr y="100" x="18800"/>
+        </frame>
+    </animation>
+    <animation name="3_attack_ult_right_font">
+        <frame>
+            <bl y="0" x="18700"/>
+            <tr y="100" x="18800"/>
+        </frame>
+        <frame>
+            <bl y="0" x="18800"/>
+            <tr y="100" x="18900"/>
+        </frame>
+        <frame>
+            <bl y="0" x="18900"/>
+            <tr y="100" x="19000"/>
+        </frame>
+        <frame>
+            <bl y="0" x="19000"/>
+            <tr y="100" x="19100"/>
+        </frame>
+        <frame>
+            <bl y="0" x="19100"/>
+            <tr y="100" x="19200"/>
+        </frame>
+        <frame>
+            <bl y="0" x="19200"/>
+            <tr y="100" x="19300"/>
+        </frame>
+    </animation>
+    <animation name="3_static_font">
+        <frame>
+            <bl y="0" x="5200"/>
+            <tr y="100" x="5300"/>
+        </frame>
+        <frame>
+            <bl y="0" x="5300"/>
+            <tr y="100" x="5400"/>
+        </frame>
+        <frame>
+            <bl y="0" x="5400"/>
+            <tr y="100" x="5500"/>
+        </frame>
+        <frame>
+            <bl y="0" x="5500"/>
+            <tr y="100" x="5600"/>
+        </frame>
+        <frame>
+            <bl y="0" x="5600"/>
+            <tr y="100" x="5700"/>
+        </frame>
+        <frame>
+            <bl y="0" x="5700"/>
+            <tr y="100" x="5800"/>
+        </frame>
+    </animation>
+    <animation name="3_static_left">
+        <frame>
+            <bl y="0" x="7200"/>
+            <tr y="100" x="7300"/>
+        </frame>
+        <frame>
+            <bl y="0" x="7300"/>
+            <tr y="100" x="7400"/>
+        </frame>
+        <frame>
+            <bl y="0" x="7400"/>
+            <tr y="100" x="7500"/>
+        </frame>
+        <frame>
+            <bl y="0" x="7500"/>
+            <tr y="100" x="7600"/>
+        </frame>
+        <frame>
+            <bl y="0" x="7600"/>
+            <tr y="100" x="7700"/>
+        </frame>
+        <frame>
+            <bl y="0" x="7700"/>
+            <tr y="100" x="7800"/>
+        </frame>
+    </animation>
+    <animation name="3_static_left_back">
+        <frame>
+            <bl y="0" x="7700"/>
+            <tr y="100" x="7800"/>
+        </frame>
+        <frame>
+            <bl y="0" x="7800"/>
+            <tr y="100" x="7900"/>
+        </frame>
+        <frame>
+            <bl y="0" x="7900"/>
+            <tr y="100" x="8000"/>
+        </frame>
+        <frame>
+            <bl y="0" x="8000"/>
+            <tr y="100" x="8100"/>
+        </frame>
+        <frame>
+            <bl y="0" x="8100"/>
+            <tr y="100" x="8200"/>
+        </frame>
+        <frame>
+            <bl y="0" x="8200"/>
+            <tr y="100" x="8300"/>
+        </frame>
+    </animation>
+    <animation name="3_static_left_font">
+        <frame>
+            <bl y="0" x="8200"/>
+            <tr y="100" x="8300"/>
+        </frame>
+        <frame>
+            <bl y="0" x="8300"/>
+            <tr y="100" x="8400"/>
+        </frame>
+        <frame>
+            <bl y="0" x="8400"/>
+            <tr y="100" x="8500"/>
+        </frame>
+        <frame>
+            <bl y="0" x="8500"/>
+            <tr y="100" x="8600"/>
+        </frame>
+        <frame>
+            <bl y="0" x="8600"/>
+            <tr y="100" x="8700"/>
+        </frame>
+        <frame>
+            <bl y="0" x="8700"/>
+            <tr y="100" x="8800"/>
+        </frame>
+    </animation>
+    <animation name="3_static_right">
+        <frame>
+            <bl y="0" x="5700"/>
+            <tr y="100" x="5800"/>
+        </frame>
+        <frame>
+            <bl y="0" x="5800"/>
+            <tr y="100" x="5900"/>
+        </frame>
+        <frame>
+            <bl y="0" x="5900"/>
+            <tr y="100" x="6000"/>
+        </frame>
+        <frame>
+            <bl y="0" x="6000"/>
+            <tr y="100" x="6100"/>
+        </frame>
+        <frame>
+            <bl y="0" x="6100"/>
+            <tr y="100" x="6200"/>
+        </frame>
+        <frame>
+            <bl y="0" x="6200"/>
+            <tr y="100" x="6300"/>
+        </frame>
+    </animation>
+    <animation name="3_static_right_back">
+        <frame>
+            <bl y="0" x="6200"/>
+            <tr y="100" x="6300"/>
+        </frame>
+        <frame>
+            <bl y="0" x="6300"/>
+            <tr y="100" x="6400"/>
+        </frame>
+        <frame>
+            <bl y="0" x="6400"/>
+            <tr y="100" x="6500"/>
+        </frame>
+        <frame>
+            <bl y="0" x="6500"/>
+            <tr y="100" x="6600"/>
+        </frame>
+        <frame>
+            <bl y="0" x="6600"/>
+            <tr y="100" x="6700"/>
+        </frame>
+        <frame>
+            <bl y="0" x="6700"/>
+            <tr y="100" x="6800"/>
+        </frame>
+    </animation>
+    <animation name="3_static_right_font">
+        <frame>
+            <bl y="0" x="6700"/>
+            <tr y="100" x="6800"/>
+        </frame>
+        <frame>
+            <bl y="0" x="6800"/>
+            <tr y="100" x="6900"/>
+        </frame>
+        <frame>
+            <bl y="0" x="6900"/>
+            <tr y="100" x="7000"/>
+        </frame>
+        <frame>
+            <bl y="0" x="7000"/>
+            <tr y="100" x="7100"/>
+        </frame>
+        <frame>
+            <bl y="0" x="7100"/>
+            <tr y="100" x="7200"/>
+        </frame>
+        <frame>
+            <bl y="0" x="7200"/>
+            <tr y="100" x="7300"/>
+        </frame>
+    </animation>
+    <animation name="3_ult_back">
+        <frame>
+            <bl y="0" x="0"/>
+            <tr y="100" x="100"/>
+        </frame>
+        <frame>
+            <bl y="0" x="100"/>
+            <tr y="100" x="200"/>
+        </frame>
+        <frame>
+            <bl y="0" x="200"/>
+            <tr y="100" x="300"/>
+        </frame>
+        <frame>
+            <bl y="0" x="300"/>
+            <tr y="100" x="400"/>
+        </frame>
+        <frame>
+            <bl y="0" x="400"/>
+            <tr y="100" x="500"/>
+        </frame>
+        <frame>
+            <bl y="0" x="500"/>
+            <tr y="100" x="600"/>
+        </frame>
+    </animation>
+    <animation name="3_ult_front">
+        <frame>
+            <bl y="0" x="600"/>
+            <tr y="100" x="700"/>
+        </frame>
+        <frame>
+            <bl y="0" x="700"/>
+            <tr y="100" x="800"/>
+        </frame>
+        <frame>
+            <bl y="0" x="800"/>
+            <tr y="100" x="900"/>
+        </frame>
+        <frame>
+            <bl y="0" x="900"/>
+            <tr y="100" x="1000"/>
+        </frame>
+        <frame>
+            <bl y="0" x="1000"/>
+            <tr y="100" x="1100"/>
+        </frame>
+        <frame>
+            <bl y="0" x="1100"/>
+            <tr y="100" x="1200"/>
+        </frame>
+    </animation>
+    <animation name="3_ult_left">
+        <frame>
+            <bl y="0" x="3000"/>
+            <tr y="100" x="3100"/>
+        </frame>
+        <frame>
+            <bl y="0" x="3100"/>
+            <tr y="100" x="3200"/>
+        </frame>
+        <frame>
+            <bl y="0" x="3200"/>
+            <tr y="100" x="3300"/>
+        </frame>
+        <frame>
+            <bl y="0" x="3300"/>
+            <tr y="100" x="3400"/>
+        </frame>
+        <frame>
+            <bl y="0" x="3400"/>
+            <tr y="100" x="3500"/>
+        </frame>
+        <frame>
+            <bl y="0" x="3500"/>
+            <tr y="100" x="3600"/>
+        </frame>
+    </animation>
+    <animation name="3_ult_left_back">
+        <frame>
+            <bl y="0" x="3600"/>
+            <tr y="100" x="3700"/>
+        </frame>
+        <frame>
+            <bl y="0" x="3700"/>
+            <tr y="100" x="3800"/>
+        </frame>
+        <frame>
+            <bl y="0" x="3800"/>
+            <tr y="100" x="3900"/>
+        </frame>
+        <frame>
+            <bl y="0" x="3900"/>
+            <tr y="100" x="4000"/>
+        </frame>
+        <frame>
+            <bl y="0" x="4000"/>
+            <tr y="100" x="4100"/>
+        </frame>
+    </animation>
+    <animation name="3_ult_left_font">
+        <frame>
+            <bl y="0" x="4200"/>
+            <tr y="100" x="4300"/>
+        </frame>
+        <frame>
+            <bl y="0" x="4300"/>
+            <tr y="100" x="4400"/>
+        </frame>
+        <frame>
+            <bl y="0" x="4400"/>
+            <tr y="100" x="4500"/>
+        </frame>
+        <frame>
+            <bl y="0" x="4500"/>
+            <tr y="100" x="4600"/>
+        </frame>
+        <frame>
+            <bl y="0" x="4600"/>
+            <tr y="100" x="4700"/>
+        </frame>
+    </animation>
+    <animation name="3_ult_right">
+        <frame>
+            <bl y="0" x="1200"/>
+            <tr y="100" x="1300"/>
+        </frame>
+        <frame>
+            <bl y="0" x="1300"/>
+            <tr y="100" x="1400"/>
+        </frame>
+        <frame>
+            <bl y="0" x="1400"/>
+            <tr y="100" x="1500"/>
+        </frame>
+        <frame>
+            <bl y="0" x="1500"/>
+            <tr y="100" x="1600"/>
+        </frame>
+        <frame>
+            <bl y="0" x="1600"/>
+            <tr y="100" x="1700"/>
+        </frame>
+        <frame>
+            <bl y="0" x="1700"/>
+            <tr y="100" x="1800"/>
+        </frame>
+    </animation>
+    <animation name="3_ult_right_back">
+        <frame>
+            <bl y="0" x="1800"/>
+            <tr y="100" x="1900"/>
+        </frame>
+        <frame>
+            <bl y="0" x="1900"/>
+            <tr y="100" x="2000"/>
+        </frame>
+        <frame>
+            <bl y="0" x="2000"/>
+            <tr y="100" x="2100"/>
+        </frame>
+        <frame>
+            <bl y="0" x="2100"/>
+            <tr y="100" x="2200"/>
+        </frame>
+        <frame>
+            <bl y="0" x="2200"/>
+            <tr y="100" x="2300"/>
+        </frame>
+        <frame>
+            <bl y="0" x="2300"/>
+            <tr y="100" x="2400"/>
+        </frame>
+    </animation>
+    <animation name="3_ult_right_front">
+        <frame>
+            <bl y="0" x="2400"/>
+            <tr y="100" x="2500"/>
+        </frame>
+        <frame>
+            <bl y="0" x="2500"/>
+            <tr y="100" x="2600"/>
+        </frame>
+        <frame>
+            <bl y="0" x="2600"/>
+            <tr y="100" x="2700"/>
+        </frame>
+        <frame>
+            <bl y="0" x="2700"/>
+            <tr y="100" x="2800"/>
+        </frame>
+        <frame>
+            <bl y="0" x="2800"/>
+            <tr y="100" x="2900"/>
+        </frame>
+        <frame>
+            <bl y="0" x="2900"/>
+            <tr y="100" x="3000"/>
+        </frame>
+    </animation>
+    <animation name="3_ult_static_back">
+        <frame>
+            <bl y="0" x="8700"/>
+            <tr y="100" x="8800"/>
+        </frame>
+        <frame>
+            <bl y="0" x="8800"/>
+            <tr y="100" x="8900"/>
+        </frame>
+        <frame>
+            <bl y="0" x="8900"/>
+            <tr y="100" x="9000"/>
+        </frame>
+        <frame>
+            <bl y="0" x="9000"/>
+            <tr y="100" x="9100"/>
+        </frame>
+        <frame>
+            <bl y="0" x="9100"/>
+            <tr y="100" x="9200"/>
+        </frame>
+        <frame>
+            <bl y="0" x="9200"/>
+            <tr y="100" x="9300"/>
+        </frame>
+    </animation>
+    <animation name="3_ult_static_font">
+        <frame>
+            <bl y="0" x="9200"/>
+            <tr y="100" x="9300"/>
+        </frame>
+        <frame>
+            <bl y="0" x="9300"/>
+            <tr y="100" x="9400"/>
+        </frame>
+        <frame>
+            <bl y="0" x="9400"/>
+            <tr y="100" x="9500"/>
+        </frame>
+        <frame>
+            <bl y="0" x="9500"/>
+            <tr y="100" x="9600"/>
+        </frame>
+        <frame>
+            <bl y="0" x="9600"/>
+            <tr y="100" x="9700"/>
+        </frame>
+        <frame>
+            <bl y="0" x="9700"/>
+            <tr y="100" x="9800"/>
+        </frame>
+    </animation>
+    <animation name="3_ult_static_left">
+        <frame>
+            <bl y="0" x="11200"/>
+            <tr y="100" x="11300"/>
+        </frame>
+        <frame>
+            <bl y="0" x="11300"/>
+            <tr y="100" x="11400"/>
+        </frame>
+        <frame>
+            <bl y="0" x="11400"/>
+            <tr y="100" x="11500"/>
+        </frame>
+        <frame>
+            <bl y="0" x="11500"/>
+            <tr y="100" x="11600"/>
+        </frame>
+        <frame>
+            <bl y="0" x="11600"/>
+            <tr y="100" x="11700"/>
+        </frame>
+        <frame>
+            <bl y="0" x="11700"/>
+            <tr y="100" x="11800"/>
+        </frame>
+    </animation>
+    <animation name="3_ult_static_left_back">
+        <frame>
+            <bl y="0" x="11700"/>
+            <tr y="100" x="11800"/>
+        </frame>
+        <frame>
+            <bl y="0" x="11800"/>
+            <tr y="100" x="11900"/>
+        </frame>
+        <frame>
+            <bl y="0" x="11900"/>
+            <tr y="100" x="12000"/>
+        </frame>
+        <frame>
+            <bl y="0" x="12000"/>
+            <tr y="100" x="12100"/>
+        </frame>
+        <frame>
+            <bl y="0" x="12100"/>
+            <tr y="100" x="12200"/>
+        </frame>
+        <frame>
+            <bl y="0" x="12200"/>
+            <tr y="100" x="12300"/>
+        </frame>
+    </animation>
+    <animation name="3_ult_static_left_font">
+        <frame>
+            <bl y="0" x="12200"/>
+            <tr y="100" x="12300"/>
+        </frame>
+        <frame>
+            <bl y="0" x="12300"/>
+            <tr y="100" x="12400"/>
+        </frame>
+        <frame>
+            <bl y="0" x="12400"/>
+            <tr y="100" x="12500"/>
+        </frame>
+        <frame>
+            <bl y="0" x="12500"/>
+            <tr y="100" x="12600"/>
+        </frame>
+        <frame>
+            <bl y="0" x="12600"/>
+            <tr y="100" x="12700"/>
+        </frame>
+        <frame>
+            <bl y="0" x="12700"/>
+            <tr y="100" x="12800"/>
+        </frame>
+    </animation>
+    <animation name="3_ult_static_right">
+        <frame>
+            <bl y="0" x="9700"/>
+            <tr y="100" x="9800"/>
+        </frame>
+        <frame>
+            <bl y="0" x="9800"/>
+            <tr y="100" x="9900"/>
+        </frame>
+        <frame>
+            <bl y="0" x="9900"/>
+            <tr y="100" x="10000"/>
+        </frame>
+        <frame>
+            <bl y="0" x="10000"/>
+            <tr y="100" x="10100"/>
+        </frame>
+        <frame>
+            <bl y="0" x="10100"/>
+            <tr y="100" x="10200"/>
+        </frame>
+        <frame>
+            <bl y="0" x="10200"/>
+            <tr y="100" x="10300"/>
+        </frame>
+    </animation>
+    <animation name="3_ult_static_right_back">
+        <frame>
+            <bl y="0" x="10200"/>
+            <tr y="100" x="10300"/>
+        </frame>
+        <frame>
+            <bl y="0" x="10300"/>
+            <tr y="100" x="10400"/>
+        </frame>
+        <frame>
+            <bl y="0" x="10400"/>
+            <tr y="100" x="10500"/>
+        </frame>
+        <frame>
+            <bl y="0" x="10500"/>
+            <tr y="100" x="10600"/>
+        </frame>
+        <frame>
+            <bl y="0" x="10600"/>
+            <tr y="100" x="10700"/>
+        </frame>
+        <frame>
+            <bl y="0" x="10700"/>
+            <tr y="100" x="10800"/>
+        </frame>
+    </animation>
+    <animation name="3_ult_static_right_font">
+        <frame>
+            <bl y="0" x="10700"/>
+            <tr y="100" x="10800"/>
+        </frame>
+        <frame>
+            <bl y="0" x="10800"/>
+            <tr y="100" x="10900"/>
+        </frame>
+        <frame>
+            <bl y="0" x="10900"/>
+            <tr y="100" x="11000"/>
+        </frame>
+        <frame>
+            <bl y="0" x="11000"/>
+            <tr y="100" x="11100"/>
+        </frame>
+        <frame>
+            <bl y="0" x="11100"/>
+            <tr y="100" x="11200"/>
+        </frame>
+        <frame>
+            <bl y="0" x="11200"/>
+            <tr y="100" x="11300"/>
+        </frame>
+    </animation>
+</animations>

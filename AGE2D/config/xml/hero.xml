@@ -1,0 +1,77 @@
+<animations >
+        <animation name="static">
+
+		<frame>
+                <bl x="0"   y="512"> </bl>
+                <tr x="256" y="768"> </tr>
+		</frame>
+
+                <frame>
+                <bl x="256" y="512"> </bl>
+                <tr x="512" y="768"> </tr>
+                </frame>
+
+                <frame>
+                <bl x="512" y="512"> </bl>
+                <tr x="768" y="768"> </tr>
+                </frame>
+
+                <frame>
+                <bl x="768" y="512"> </bl>
+                <tr x="1024" y="768"> </tr>
+                </frame>
+
+                <frame>
+                <bl x="1024" y="512"> </bl>
+                <tr x="1280" y="768"> </tr>
+                </frame>
+
+                <frame>
+                <bl x="1280" y="512"> </bl>
+                <tr x="1536" y="768"> </tr>
+                </frame>
+	</animation>
+        <animation name="move_left">
+
+                <frame>
+                <bl x="0"   y="256"> </bl>
+                <tr x="256" y="512"> </tr>
+                </frame>
+
+                <frame>
+                <bl x="256" y="256"> </bl>
+                <tr x="512" y="512"> </tr>
+                </frame>
+
+                <frame>
+                <bl x="512" y="256"> </bl>
+                <tr x="768" y="512"> </tr>
+                </frame>
+
+                <frame>
+                <bl x="768" y="256"> </bl>
+                <tr x="1024" y="512"> </tr>
+                </frame>
+        </animation>
+        <animation name="move_right">
+                <frame>
+                <bl x="0" y="0"> </bl>
+                <tr x="256" y="256"> </tr>
+                </frame>
+
+                <frame>
+                <bl x="256" y="0"> </bl>
+                <tr x="512" y="256"> </tr>
+                </frame>
+
+                <frame>
+                <bl x="512" y="0"> </bl>
+                <tr x="768" y="256"> </tr>
+                </frame>
+
+                <frame>
+                <bl x="768" y="0"> </bl>
+                <tr x="1024" y="256"> </tr>
+                </frame>
+        </animation>
+</animations>
